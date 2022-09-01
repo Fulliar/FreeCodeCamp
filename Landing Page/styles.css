@@ -1,0 +1,9 @@
+#navbar{
+    position: fixed;
+}
+
+#header{
+    display: flex;
+    position: fixed;
+    background-color: yellow;
+}
